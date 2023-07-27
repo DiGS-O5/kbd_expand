@@ -7,8 +7,15 @@ This repository contains footprint libraries for the following parts that may be
 * 0.96 inch 128x64 Display
 * 0.66 inch 64x48 Display
 * 0.49 inch 64x32 Display
-* 2-pin Spring-Loaded Pogo Pin Connector
-* 4-pin Spring-Loaded Pogo Pin Connector
+* Spring-Loaded-Pogo-2pin_F
+* Spring-Loaded-Pogo-2pin_M
+* Spring-Loaded-Pogo-4pin_F
+* Spring-Loaded-Pogo-4pin_M
+* Magnetic-Pogo-5pin_F
+* Magnetic-Pogo-5pin_M
+* Magnetic-Pogo-6pin_F
+* Magnetic-Pogo-6pin_M
 
-全てのパーツは実測値で作成されているため設計誤差/測定誤差を含みます．  
-All parts are made based on actual measurements and include design/measurement errors.
+
+一部のパーツは実測値で作成されているため設計誤差/測定誤差を含みます．  
+Some parts are made based on actual measurements and include design/measurement errors.
